@@ -27,9 +27,9 @@ public static void main(String[] args) {
 <code>CreateImageFrame</code> Interface contains <code>decodeVideoFrames</code> method that is used to extract and create individual frames from video.<br/>
 
 This overridden method can be called using different parameters value<br/>
-<ul><li><code>decodeVideoFrames(String inputPath, String outputPath, String InputFileName)</code></li><br/>
-<li><code>decodeVideoFrames(String inputPath, String outputPath, String InputFileName, int secondsPerFrame)</code></li><br/>
-<li><code>decodeVideoFrames(String inputPath, String outputPath, String InputFileName, int secondsPerFrame, String imageFormat)</code></li></ul>
+<ul><li><code>decodeVideoFrames(String inputPath, String outputPath, String inputFileName)</code></li><br/>
+<li><code>decodeVideoFrames(String inputPath, String outputPath, String inputFileName, int secondsPerFrame)</code></li><br/>
+<li><code>decodeVideoFrames(String inputPath, String outputPath, String inputFileName, int secondsPerFrame, String imageFormat)</code></li></ul>
 
 <table>
 <thead>
@@ -48,7 +48,7 @@ This overridden method can be called using different parameters value<br/>
 <td>The output path to save the extracted frames and created thumbnail.</td>
 </tr>
 <tr>
-<td><b>InputFileName</b></td>
+<td><b>inputFileName</b></td>
 <td>The file name of the input video.</td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ This overridden method can be called using different parameters value<br/>
 </tr>
 <tr>
 <td><b>imageFormat</b></td>
-<td>Describes the image format of the output thumnail image. <b>Default is "png"</b></td>
+<td>Describes the image format of the output thumnail image. <b>Default is "png".</b></td>
 </tr>
 </tbody>
 </table>
