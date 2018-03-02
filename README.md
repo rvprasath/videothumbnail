@@ -24,7 +24,7 @@ public static void main(String[] args) {
 </pre>
 <h2></h2>
 
-
+<code>CreateImageFrame</code> Interface contains <code>decodeVideoFrames</code> method that is used to extract and create individual frames from video.
 
 
 
