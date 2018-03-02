@@ -54,11 +54,11 @@ This overridden method can be called using different parameters value<br/>
 <tr>
 <td><b>secondsPerFrame</b></td>
 <td>This parameter describes a single thumbnail frames to show for particular time interval when hover on the video player seekbar.
-<b>Ex : if the parameter is 5, then the thumnail frame changes for every 5 seconds on seekbar.<b/></td>
+<b>ex : if the parameter is 5, then the thumnail frame changes for every 5 seconds on seekbar.<b/></td>
 </tr>
 <tr>
-<td><b>InputFileName</b></td>
-<td>The file name of the input video.</td>
+<td><b>imageFormat</b></td>
+<td>Describes the image format of the output thumnail image. <b>Default is "png"</b></td>
 </tr>
 </tbody>
 </table>
