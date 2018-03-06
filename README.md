@@ -126,23 +126,23 @@ The parameters <b>column, row, height, width</b> are not used the process uses i
 </tr>
 <tr>
 <td><b>width</b></td>
-<td>width of the thumbnail</td>
+<td>width of the thumbnail.</td>
 </tr>
 <tr>
 <td><b>nh</b></td>
-<td>nh number of image frame columns thumbnail</td>
+<td>nh number of image frame columns thumbnail.</td>
 </tr>
 <tr>
 <td><b>nv</b></td>
-<td>nv number of image frame rows in thumbnail</td>
+<td>nv number of image frame rows in thumbnail.</td>
 </tr>
 <tr>
 <td><b>secPerFrames</b></td>
-<td>seconds per individual frame</td>
+<td>seconds per individual frame.</td>
 </tr>
 <tr>
 <td><b>thumbNails</b></td>
-<td>thumbNails having list of thumnails file names</td>
+<td>thumbNails having list of thumnails file names.</td>
 </tr>
 <tr>
 <td><b>posters</b></td>
@@ -150,7 +150,7 @@ The parameters <b>column, row, height, width</b> are not used the process uses i
 </tr>
 <tr>
 <td><b>absolutePath</b></td>
-<td>absolutePath gives the path of the directory</td>
+<td>absolutePath gives the path of the directory.</td>
 </tr>
 </tbody>
 </table>
