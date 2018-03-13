@@ -1,5 +1,5 @@
 # videothumbnail
-video thumbnail creation library for vpplayer
+<b>video thumbnail creation library for vpplayer</b>
 
 <b>Dependency</b><br/>
 This thumbnail creation process requires <b>videoThumbnail.jar</b> along with <b>jcodec-javase-0.2.2.jar</b> and <b>jcodec-0.2.2.jar</b>
