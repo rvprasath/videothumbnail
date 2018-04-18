@@ -26,7 +26,7 @@ public static void main(String[] args) {
 
 <code>CreateImageFrame</code> Interface contains <code>decodeVideoFrames</code> method that is used to extract and create individual frames from video.<br/>
 
-This overridden method can be called using different parameter values<br/>
+This overridden method can be called using different parameter values.<br/>
 <ul><li><code>decodeVideoFrames(String inputPath, String outputPath, String inputFileName)</code></li><br/>
 <li><code>decodeVideoFrames(String inputPath, String outputPath, String inputFileName, int secondsPerFrame)</code></li><br/>
 <li><code>decodeVideoFrames(String inputPath, String outputPath, String inputFileName, int secondsPerFrame, String imageFormat)</code></li></ul>
