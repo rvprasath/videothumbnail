@@ -142,7 +142,7 @@ The parameters <b>column, row, height, width</b> are not used the process uses i
 </tr>
 <tr>
 <td><b>thumbNails</b></td>
-<td>thumbNails having list of thumnails file names.</td>
+<td>thumbNails having list of thumbnails file names.</td>
 </tr>
 <tr>
 <td><b>posters</b></td>
