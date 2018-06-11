@@ -4,7 +4,7 @@
 <b>Dependency</b><br/>
 This thumbnail creation process requires <code><b>videoThumbnail.jar</b></code> along with <b>jcodec-javase-0.2.2.jar</b> and <b>jcodec-0.2.2.jar</b>
 
-The <pre><b>jcodec-javase-0.2.2.jar</b></pre> and <pre><b>jcodec-0.2.2.jar</b></pre> can be imported directly from maven repository too.
+The <code><b>jcodec-javase-0.2.2.jar</b></code> and <code><b>jcodec-0.2.2.jar</b></code> can be imported directly from maven repository too.
 
 
 <pre>
