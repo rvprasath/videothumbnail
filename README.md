@@ -2,9 +2,9 @@
 <b>video thumbnail creation library for vpplayer</b>
 
 <b>Dependency</b><br/>
-This thumbnail creation process requires <b>videoThumbnail.jar</b> along with <b>jcodec-javase-0.2.2.jar</b> and <b>jcodec-0.2.2.jar</b>
+This thumbnail creation process requires <pre><b>videoThumbnail.jar</b></pre> along with <b>jcodec-javase-0.2.2.jar</b> and <b>jcodec-0.2.2.jar</b>
 
-The <b>jcodec-javase-0.2.2.jar</b> and <b>jcodec-0.2.2.jar</b> can be imported directly from maven repository too.
+The <pre><b>jcodec-javase-0.2.2.jar</b></pre> and <pre><b>jcodec-0.2.2.jar</b></pre> can be imported directly from maven repository too.
 
 
 <pre>
