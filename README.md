@@ -6,7 +6,6 @@ This thumbnail creation process requires <code><b>videoThumbnail.jar</b></code> 
 
 The <code><b>jcodec-javase-0.2.2.jar</b></code> and <code><b>jcodec-0.2.2.jar</b></code> can be imported directly from maven repository too.
 
-
 <pre>
 public class createVideoThumbnail {	
 public static void main(String[] args) {
